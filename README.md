@@ -4,8 +4,6 @@
 - Blog: [name@blog](https://nameatblog.netlify.app/)
 
 #### [Contact](mailto:n4n4m3.nameme@gmail.com?subject=[GitHub])
-### [:camera:](www.instagram.com/n4m3name)
-### [:speech_balloon:](twitter.com/n4n4m3_nameme)
 
 
 
