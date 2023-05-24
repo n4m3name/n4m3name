@@ -1,5 +1,5 @@
 ### Hello
-- About me: 2nd year CS/Math major at University of Victoria, Canada
+2nd year CS/Math major at University of Victoria, Canada
 - Current projects: [The Odin Project](https://www.theodinproject.com)
 - Blog: [name@blog](https://nameatblog.netlify.app/)
 - Contact: [email](mailto:n4n4m3.nameme@gmail.com?subject=[GitHub])
