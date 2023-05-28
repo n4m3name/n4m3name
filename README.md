@@ -1,4 +1,4 @@
-### Hi & Welcome!
+### Hi & welcome
 #### I'm a 2nd year CS/Math major at University of Victoria, Canada. Check out my
 - Current projects: [The Odin Project](https://www.theodinproject.com)
 - Blog: [name@blog](https://nameatblog.netlify.app/)
