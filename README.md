@@ -1,6 +1,7 @@
 ### Hi & welcome
 #### I'm a 2nd year CS/Math major at University of Victoria, Canada.
 - Check out my blog: [name@blog](https://nameatblog.netlify.app/)
+- Currently working on: [PMan](https://github.com/n4m3name/PMan-C)
 
 #### [Contact](mailto:evn.strsdn@pm.me?subject=[GitHub])
 
