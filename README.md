@@ -1,7 +1,9 @@
 ### Hi & welcome
 #### I'm a 2nd year CS/Math major at University of Victoria, Canada.
 - Check out my blog: [name@blog](https://nameatblog.netlify.app/)
-- Currently working on: [PMan](https://github.com/n4m3name/PMan-C)
+- Current projects:
+  -  [PMan](https://github.com/n4m3name/PMan-C)
+  -  [Risk Assessment in SQL & Python](https://github.com/CSC370-Project/Risk-Assessment-in-SQL-Python)
 
 #### [Contact](mailto:evn.strsdn@pm.me?subject=[GitHub])
 
