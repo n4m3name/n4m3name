@@ -1,5 +1,5 @@
 ### Hi & welcome
-#### I'm a 2nd year CS/Math major at University of Victoria, Canada.
+#### I'm a 3rd year CS/Math major at University of Victoria, Canada.
 - Check out my blog: [name@blog](https://nameatblog.netlify.app/)
 - Current projects:
    -  [Risk Assessment in SQL & Python](https://github.com/CSC370-Project/Risk-Assessment-in-SQL-Python)
