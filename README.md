@@ -2,7 +2,10 @@
 
 I'm a 3rd year CS/Math major at University of Victoria, Canada, interested in learning AI/Machine Learning and it's applications in algorithmic trading.
 
+Check out my [blog](https://nameatblog.netlify.app/math/mathtools/)
+
 Check out some of my recent projects and notes:
+- [Math Tools in Python](https://github.com/n4m3name/MathTools-Py/blob/main/README.md)
 - [Efficient Frontier Portfolio Optimization with SQL](https://github.com/CSC370-Project/portef/tree/19e17977b0b7aef54e11475532f2921a3ffb2aa1)
 - [Process Managment with C](https://github.com/n4m3name/PMan-C)
 - [HTML Generation with Python](https://github.com/n4m3name/Shapes-py)
