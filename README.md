@@ -1,6 +1,6 @@
 ### Hi & welcome
 
-I'm a 3rd year CS/Math major at University of Victoria, Canada, interested in learning AI/Machine Learning and it's applications in algorithmic trading.
+I'm a 3rd year CS/Math major at University of Victoria, Canada, interested in AI/Machine Learning and it's applications in algorithmic trading.
 
 Check out my [blog](https://nameatblog.netlify.app/math/mathtools/)
 
