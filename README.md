@@ -1,6 +1,6 @@
 ### Hi & welcome
 
-I'm a 3rd year CS/Math major at University of Victoria, Canada, interested in learning AI/Machine Learning and it's application in algorithmic trading.
+I'm a 3rd year CS/Math major at University of Victoria, Canada, interested in learning AI/Machine Learning and it's applications in algorithmic trading.
 
 Check out some of my recent projects and notes:
 - [Efficient Frontier Portfolio Optimization with SQL](https://github.com/CSC370-Project/portef/tree/19e17977b0b7aef54e11475532f2921a3ffb2aa1)
