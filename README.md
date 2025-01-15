@@ -7,8 +7,8 @@ Check out my [blog](https://nameatblog.netlify.app/math/mathtools/)
 Check out some of my recent projects and notes:
 - [Math Tools in Python](https://github.com/n4m3name/MathTools-Py/blob/main/README.md)
 - [Efficient Frontier Portfolio Optimization with SQL](https://github.com/CSC370-Project/portef/tree/19e17977b0b7aef54e11475532f2921a3ffb2aa1)
-- [Term Portfolio Project, SENG265 UVic](https://github.com/n4m3name/SENG265-Term-Project/blob/main/TPP-P2-V00907185-Evan-Strasdin.ipynb)
 - [Selected R examples: Applied Regression Analysis](https://github.com/n4m3name/Regression-R)
+- [Term Portfolio Project, SENG265 UVic](https://github.com/n4m3name/SENG265-Term-Project/blob/main/TPP-P2-V00907185-Evan-Strasdin.ipynb)
 - [Process Managment with C](https://github.com/n4m3name/PMan-C)
 - [Random HTML Generation with Python](https://github.com/n4m3name/Shapes-py)
 
