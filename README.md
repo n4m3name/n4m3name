@@ -5,6 +5,7 @@ I'm a 3rd year CS/Math major at University of Victoria, Canada, interested in AI
 Check out my [blog](https://nameatblog.netlify.app/math/mathtools/)
 
 Check out some of my recent projects and notes:
+- [BTC price prediction with TensorFlow](https://github.com/n4m3name/CryptoAI/tree/evan)
 - [Machine Learning in Python](https://github.com/n4m3name/SKLearn-Py)
 - [Math Tools in Python](https://github.com/n4m3name/MathTools-Py/blob/main/README.md)
 - [Efficient Frontier Portfolio Optimization with SQL](https://github.com/CSC370-Project/portef/tree/19e17977b0b7aef54e11475532f2921a3ffb2aa1)
