@@ -13,7 +13,7 @@ Check out some of my recent projects and notes:
 - [Selected R examples: Applied Regression Analysis](https://github.com/n4m3name/Regression-R)
 - [Term Portfolio Project, SENG265 UVic](https://github.com/n4m3name/SENG265-Term-Project/blob/main/TPP-P2-V00907185-Evan-Strasdin.ipynb)
 - [Process Managment with C](https://github.com/n4m3name/PMan-C)
-- [Random HTML Generation with Python](https://github.com/n4m3name/Shapes-py)
+- [Arduino control with C](https://github.com/n4m3name/Arduino-C)
 
 
 [Contact](mailto:evn.strsdn@pm.me?subject=[GitHub])
