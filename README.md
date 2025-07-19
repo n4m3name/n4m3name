@@ -5,7 +5,7 @@ I'm a 3rd year CS/Math major at University of Victoria, Canada, interested in AI
 Check out my [blog](https://nameatblog.netlify.app/math/mathtools/)
 
 Check out some of my recent projects and notes:
-- [Seoftware Engineering Research Project - Prompts & Project Engagement](https://github.com/n4m3name/SENG404-Project)
+- [Software Engineering Research Project - Prompts & Project Engagement](https://github.com/n4m3name/SENG404-Project)
 - [SVM & Neural Nets in Python](https://github.com/n4m3name/SkLearn-SVM-NN-Py)
 - [Decision Trees (ML) in Python](https://github.com/n4m3name/SKLearn-Trees-Py)
 - [Math Tools in Python](https://github.com/n4m3name/MathTools-Py/blob/main/README.md)
