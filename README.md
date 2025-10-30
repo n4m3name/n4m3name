@@ -1,6 +1,6 @@
 ### Hi & welcome
 
-I'm a 3rd year CS/Math major at University of Victoria, Canada, interested in creative appliations of AI/ML.
+I'm a 4th year CS/Math major at University of Victoria, Canada, interested in creative appliations of AI/ML.
 
 
 [Contact](mailto:evn.strsdn@pm.me?subject=[GitHub])
